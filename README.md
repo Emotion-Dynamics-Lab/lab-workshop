@@ -5,7 +5,7 @@ Welcome to the Introduction to Git workshop!
 ## Table of Contents
 * [Introduction](introduction.md)
 * [Preparation](preparations.md)
-* [Frequently Asked Questions](/README.md#faq)
+* [Frequently Asked Questions](#faq)
 
 
 ## What if I want to learn more?
