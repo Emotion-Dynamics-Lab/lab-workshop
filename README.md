@@ -2,14 +2,16 @@
 
 Welcome to the Introduction to Git workshop! 
 > **NOTE**  
-> ⚠️ Please make sure you've completed the steps in [Preparation](preparations.md) before the workshop.   
+> ⚠️ Please make sure you've completed the steps in [Preparations](preparations.md) before the workshop.   
 > If you have any questions at all reach out to Scott on Slack!
 
-
+## Before the workshop
+Please complete the steps here: [Preparations](preparations.md)
 
 ## Table of Contents
 * [Introduction](introduction.md)
-* [Preparation](preparations.md)
+* [Installing Git](installing-git.md)
+* [Workshop exercise instructions](exercise.md)
 * [Frequently Asked Questions](#faq)
 
 
@@ -20,3 +22,5 @@ If you want to learn more about Git, here are a few resources for you:
 
 
 ## FAQ
+* **Does R Studio have built in Git support?**
+  * R Studio does indeed! It is only available if you use R Studio Projects. If you do not use Projects, you have to use Git from the Github desktop application or the terminal. 
