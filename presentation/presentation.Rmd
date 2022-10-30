@@ -48,7 +48,7 @@ Creates a local copy of a repo stored in GitHub.
 ## Commit
 Creates a snapshot of all files in the repo.
 
-* Each commit is like an entry in a historical timeline of changes you've made.
+* Each commit is like an entry in an historical timeline of changes you've made.
 * Commits are made to your local copy of the repository.
 * Commit any time you do "meaningful" work.
 
