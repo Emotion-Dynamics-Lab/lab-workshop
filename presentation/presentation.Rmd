@@ -76,7 +76,7 @@ This creates a local copy of the repository. Typically you only need to clone on
 <img src="img/clone.png" width="100%" />
 
 ## Daily workflow { .flexbox .vcenter}
-<img src="img/workflow.png" width="95%"/>
+<img src="img/workflow.png" width="90%"/>
 
 ## When to fetch/pull, commit, and push?
 
