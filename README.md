@@ -1,6 +1,11 @@
 # EDL Introduction to Git 2022
 
 Welcome to the Introduction to Git workshop! 
+> **NOTE**  
+> Please make sure you've completed the steps in [Preparation](preparations.md) before the workshop.   
+> If you have any questions at all reach out to Scott on Slack!
+
+
 
 ## Table of Contents
 * [Introduction](introduction.md)

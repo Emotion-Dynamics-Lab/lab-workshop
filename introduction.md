@@ -1,5 +1,5 @@
 # Introduction
-This section covers from basic principles that will be helpful to know throughout this workshop. 
+This section covers some basic principles that will be helpful to know throughout this workshop. 
 
 ⚠️ If you haven't yet, please make sure you follow the steps in [Perparations](preparations.md)! 
 
