@@ -2,9 +2,11 @@
 title: "Workshop 2022"
 author: "Scott Lougheed"
 date: "`r Sys.Date()`"
-output: ioslides_presentation
-widescreen: true
-logo: ./img/edl-logo.png
+output:
+  ioslides_presentation: default
+  beamer_presentation: default
+widescreen: yes
+logo: "./img/edl-logo.png"
 ---
 
 ```{r setup, include=FALSE}
@@ -70,10 +72,12 @@ To work on a repository, you must **Clone** the repository.
 
 This creates a local copy of the repository. Typically you only need to clone once. 
 <br />
-![](./img/clone.png)
+<img src="img/clone.png" width="100%" />
+<!-- ![](./img/clone.png) -->
 
 ## Daily workflow { .flexbox .vcenter}
-![](./img/workflow.png)
+<img src="img/workflow.png" width="95%"/>
+<!-- ![](./img/workflow.png) -->
 
 ## When to fetch/pull, commit, and push?
 
