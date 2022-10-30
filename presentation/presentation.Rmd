@@ -36,36 +36,37 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Repository
 A collection of related files to be managed together. 
 
-* Files related to a single project
-* Canonical version typically lives online
-* You do your work on a local copy of the repo
+* Each project may be it's own repository.
+* Canonical version of the repo lives in GitHub.
+* You do your work on a local copy of the repo.
 
 ## Cloning
-Creates a repo from "remote" to "local"
+Creates a local copy of a repo stored in GitHub.
 
-* Typically only necessary once
+* Typically only necessary once. 
 
 ## Commit
-Creates a snapshot of all files in the repo
+Creates a snapshot of all files in the repo.
 
-* Commits are to your local copy.
+* Each commit is like an entry in a historical timeline of changes you've made.
+* Commits are made to your local copy of the repository.
 * Commit any time you do "meaningful" work.
 
 ## Push
 Pushes changes to the remote repo and merges your changes with those made by your collaborators.
 
-* Do this when you are finished working for the day.
-* Ensures your collaborators see your changes.
+* Do this when you are finished working for the moment.
 * Your entire commit history is also pushed.
+* Ensures your collaborators see your changes and history.
 * Backs up your work remotely. 
 
 ## Fetch/Pull
 Retrieves the latest changes from the remote repo and merges them with your local copy.
 
 * You get all changes and history others have committed and pushed.
-* Their changes merged with yours. 
-* Github app says "Fetch" and may automatically pull, or may suggest you pull. 
-* (Behind the scenes, Pull performs a Fetch command, then a Merge command)
+* Their changes and history merged with yours. 
+* (Github app says "Fetch" and may automatically pull, or may suggest you pull.)
+* (Behind the scenes, Pull performs a Fetch command, then a Merge command.)
 
 ## Getting a repo on your computer
 To work on a repository, you must **Clone** the repository. 
@@ -73,19 +74,17 @@ To work on a repository, you must **Clone** the repository.
 This creates a local copy of the repository. Typically you only need to clone once. 
 <br />
 <img src="img/clone.png" width="100%" />
-<!-- ![](./img/clone.png) -->
 
 ## Daily workflow { .flexbox .vcenter}
 <img src="img/workflow.png" width="95%"/>
-<!-- ![](./img/workflow.png) -->
 
 ## When to fetch/pull, commit, and push?
 
 * Pull when you start working.
 * Commit regularly.
   * Any time you have something you can describe
-  * E.g., "added placeholder function"
-  * E.g., "preliminary attempt at variable transformation function"
+    * E.g., "added placeholder function"
+    * E.g., "preliminary attempt at variable transformation function"
 * Push when done working for the time being. 
 
 ## Let's give it a try, part 1
