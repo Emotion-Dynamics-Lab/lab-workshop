@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Cloning
 * Commit
 * Push
-* Fetch
+* Fetch/Pull
 
 ## Repository
 A collection of related files to be managed together. 
@@ -57,11 +57,13 @@ Pushes changes to the remote repo and merges your changes with those made by you
 * Your entire commit history is also pushed.
 * Backs up your work remotely. 
 
-## Pull
+## Fetch/Pull
 Retrieves the latest changes from the remote repo and merges them with your local copy.
 
 * You get all changes and history others have committed and pushed.
 * Their changes merged with yours. 
+* Github app says "Fetch" and may automatically pull, or may suggest you pull. 
+* (Behind the scenes, Pull performs a Fetch command, then a Merge command)
 
 ## Getting a repo on your computer
 To work on a repository, you must **Clone** the repository. 
@@ -73,7 +75,7 @@ This creates a local copy of the repository. Typically you only need to clone on
 ## Daily workflow { .flexbox .vcenter}
 ![](./img/workflow.png)
 
-## When to pull, commit, and push?
+## When to fetch/pull, commit, and push?
 
 * Pull when you start working.
 * Commit regularly.
