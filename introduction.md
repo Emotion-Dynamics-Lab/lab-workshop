@@ -1,8 +1,9 @@
 # Introduction
 This section covers some basic principles that will be helpful to know throughout this workshop. 
 
-> **⚠️NOTE**
-> If you haven't yet, please make sure you follow the steps in [Preparations](preparations.md)! 
+> **⚠️NOTE**  
+> Please make sure you've completed the steps in [Preparations](preparations.md) before the workshop.   
+> If you have any questions at all reach out to Scott on Slack!
 
 ### What is git? 
 Git is a version control system. Although there are other VCSs out there, Git is by far the most popular and easiest to use. 
