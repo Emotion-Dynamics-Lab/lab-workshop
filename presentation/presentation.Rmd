@@ -1,5 +1,5 @@
 ---
-title: "Workshop 2022"
+title: "GitHub Workshop 2022"
 author: "Scott Lougheed"
 date: "`r Sys.Date()`"
 output:
