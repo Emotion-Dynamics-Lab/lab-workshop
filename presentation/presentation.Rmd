@@ -135,4 +135,4 @@ Branches create a separate path for you to do new work.
 * (try switching between branches right now and see how your `.Rmd` file changes!)
 
 ## Let's make a PR and merge!
-* On GitHub.com 
+* On GitHub.com create a Pull Request
