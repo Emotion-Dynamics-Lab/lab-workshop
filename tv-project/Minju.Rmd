@@ -1,0 +1,10 @@
+---
+title: "Minju"
+output: html_document
+date: '2022-11-04'
+---
+Minju Yu
+Bob's Burgers!
+I can enjoy with my friends!
+
+I haven't seen it -Mika
