@@ -29,9 +29,10 @@ knitr::opts_chunk$set(echo = FALSE)
 * All script work will follow a Git-based workflow
 
 ## Why Git?
-* Redunancy and data loss prevention
-* Data and code are subject to different considerations
-* Easier collaboration, support, and accountability
+* Redunancy and data loss prevention.
+* Data and code are subject to different considerations.
+* Easier collaboration, support, and accountability.
+* A central location for all code written by the lab. 
 
 ## Key Concepts
 
@@ -105,9 +106,8 @@ This creates a local copy of the repository. Typically you only need to clone on
 
 ## Let's give it a try, part 2
 * Pull.
-* Open the `.Rmd` of the person whose name is next in the alphabet to your own.
-* Write "I have seen it!" or "I haven't seen it!" below their recommendation. 
-* Commit, make sure to add a descriptoin like "Reviewed recommendation".
+* Add a line describing what you like about your show. 
+* Commit, make sure to add a description like "added why I like it".
 * Push to remote. 
 
 ## Branching
@@ -128,11 +128,17 @@ Branches create a separate path for you to do new work.
 
 
 ## Let's make a branch!
-* In GitHub Desktop create a new branch `name/why-i-like`.
+* In GitHub Desktop create a new branch `name/rec-review`.
 * Make sure you're on your new branch!
-* In your new `name.Rmd` file, add a sentence about why you like the show you recommended.
-* In GitHub Desktop: commit and push/publish branch. 
-* (try switching between branches right now and see how your `.Rmd` file changes!)
+* Publish the branch. 
+* Open the `.Rmd` of the person whose name is next in the alphabet to your own.
+* Write "I have seen it!" or "I haven't seen it!" below their recommendation. 
+* In GitHub Desktop: commit (don't forget a description!) and push. 
+* (try switching between branches right now and see how the `.Rmd` file changes!)
 
 ## Let's make a PR and merge!
-* On GitHub.com 
+* On GitHub.com or in GitHub Desktop, create a Pull Request
+* Review changes to ensure you're merging in what you want. 
+* You may have to get approval to merge your changes.
+* Approvers and others can comment on specific lines of code.
+* Merge!
