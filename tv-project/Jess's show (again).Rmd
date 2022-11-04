@@ -6,3 +6,5 @@ output: html_document
 ---
 
 [Only Murders In The Building (again because it is so good)](https://www.imdb.com/title/tt12851524/)
+
+* I love the chemistry between Martin Short and Steve Martin, and what a perfect foil Selena Gomez is for their silly characters
