@@ -17,13 +17,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](./img/bad-idea.png)
 
 ## What is Git? { .vcenter}
-
 * Version control system
 * Automatic
 * History is immutable
 * All changes are attributable
 * Easy comparisons (“diffing”)
 * Roll back one, some, or all changes
+
+## Git in the EDL
+* All scripts stored in GitHub
+* All script work will follow a Git-based workflow
+
+## Why Git?
+* Redunancy and data loss prevention
+* Data and code are subject to different considerations
+* Easier collaboration, support, and accountability
 
 ## Key Concepts
 
@@ -101,3 +109,30 @@ This creates a local copy of the repository. Typically you only need to clone on
 * Write "I have seen it!" or "I haven't seen it!" below their recommendation. 
 * Commit, make sure to add a descriptoin like "Reviewed recommendation".
 * Push to remote. 
+
+## Branching
+Branches create a separate path for you to do new work. 
+<img src="img/branches.png" width="90%"/>
+
+## Branching
+* Every repo has a `main` branch.
+* Additional branches created as needed.
+* Work done on one branch has NO IMPACT on other branches.
+* Branches are "merged" into `main` with a Pull Request.
+
+## Branching
+* Create new branch `scott/new-data-cleaning`.
+* Do your work. 
+* Did it work out? **Merge!**
+* Didn't go as planned? **Delete the branch!**
+
+
+## Let's make a branch!
+* In GitHub Desktop create a new branch `name/why-i-like`.
+* Make sure you're on your new branch!
+* In your new `name.Rmd` file, add a sentence about why you like the show you recommended.
+* In GitHub Desktop: commit and push/publish branch. 
+* (try switching between branches right now and see how your `.Rmd` file changes!)
+
+## Let's make a PR and merge!
+* On GitHub.com 
