@@ -137,7 +137,7 @@ Branches create a separate path for you to do new work.
 * (try switching between branches right now and see how the `.Rmd` file changes!)
 
 ## Let's make a PR and merge!
-* On GitHub.com create a Pull Request
+* On GitHub.com or in GitHub Desktop, create a Pull Request
 * Review changes to ensure you're merging in what you want. 
 * You may have to get approval to merge your changes.
 * Approvers and others can comment on specific lines of code.
